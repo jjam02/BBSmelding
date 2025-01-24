@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "Zero XP",
+    "Ingredient #1": "N/A",
+    "Ingredient #2": "N/A",
+    "Crystal": "N/A"
+  },
+  {
+    "Name": "Combo Plus",
+    "Ingredient #1": "Sliding Dash",
+    "Ingredient #2": "Fire",
+    "Crystal": "Wellspring"
+  },
+  {
+    "Name": "Air Combo Plus",
+    "Ingredient #1": "Strike Raid",
+    "Ingredient #2": "Blizzard",
+    "Crystal": "Wellspring"
+  },
+  {
+    "Name": "EXP Chance",
+    "Ingredient #1": "Stopra",
+    "Ingredient #2": "Stopra",
+    "Crystal": "Abounding"
+  },
+  {
+    "Name": "EXP Walker",
+    "Ingredient #1": "Blizzard",
+    "Ingredient #2": "Aero",
+    "Crystal": "Abounding"
+  },
+  {
+    "Name": "Damage Syphon",
+    "Ingredient #1": "Fira",
+    "Ingredient #2": "Fira",
+    "Crystal": "Soothing"
+  },
+  {
+    "Name": "Second Chance",
+    "Ingredient #1": "Zero Gravira",
+    "Ingredient #2": "Confuse",
+    "Crystal": "Pulsing"
+  },
+  {
+    "Name": "Once More",
+    "Ingredient #1": "Fira",
+    "Ingredient #2": "Fira",
+    "Crystal": "Wellspring"
+  },
+  {
+    "Name": "Scan",
+    "Ingredient #1": "N/A",
+    "Ingredient #2": "N/A",
+    "Crystal": "N/A"
+  },
+  {
+    "Name": "Leaf Bracer",
+    "Ingredient #1": "Blizzard",
+    "Ingredient #2": "Blizzard",
+    "Crystal": "Pulsing"
+  }
+]

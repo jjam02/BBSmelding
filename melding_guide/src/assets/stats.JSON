@@ -1,0 +1,98 @@
+[
+  {
+    "Name": "HP Boost",
+    "Ingredient #1": "Fire",
+    "Ingredient #2": "Fire",
+    "Crystal": "Soothing"
+  },
+  {
+    "Name": "Fire Boost",
+    "Ingredient #1": "Fire",
+    "Ingredient #2": "Fire",
+    "Crystal": "Shimmering"
+  },
+  {
+    "Name": "Blizzard Boost",
+    "Ingredient #1": "Blizzard",
+    "Ingredient #2": "Blizzard",
+    "Crystal": "Shimmering"
+  },
+  {
+    "Name": "Thunder Boost",
+    "Ingredient #1": "Thunder",
+    "Ingredient #2": "Thunder",
+    "Crystal": "Shimmering"
+  },
+  {
+    "Name": "Cure Boost",
+    "Ingredient #1": "Cure",
+    "Ingredient #2": "Cure",
+    "Crystal": "Shimmering"
+  },
+  {
+    "Name": "Item Boost",
+    "Ingredient #1": "Blizzard",
+    "Ingredient #2": "Blizzard",
+    "Crystal": "Soothing"
+  },
+  {
+    "Name": "Attack Haste",
+    "Ingredient #1": "Sliding Dash",
+    "Ingredient #2": "Fire",
+    "Crystal": "Fleeting"
+  },
+  {
+    "Name": "Magic Haste",
+    "Ingredient #1": "Sliding Dash",
+    "Ingredient #2": "Blizzard",
+    "Crystal": "Fleeting"
+  },
+  {
+    "Name": "Combo F Boost",
+    "Ingredient #1": "Stop",
+    "Ingredient #2": "Stop",
+    "Crystal": "Pulsing"
+  },
+  {
+    "Name": "Finish Boost",
+    "Ingredient #1": "Sliding Dash",
+    "Ingredient #2": "Poison",
+    "Crystal": "Pulsing"
+  },
+  {
+    "Name": "Fire Screen",
+    "Ingredient #1": "Sliding Dash",
+    "Ingredient #2": "Fire",
+    "Crystal": "Shimmering"
+  },
+  {
+    "Name": "Blizzard Screen",
+    "Ingredient #1": "Strike Raid",
+    "Ingredient #2": "Confuse",
+    "Crystal": "Shimmering"
+  },
+  {
+    "Name": "Thunder Screen",
+    "Ingredient #1": "Stun Edge",
+    "Ingredient #2": "Fire",
+    "Crystal": "Shimmering"
+  },
+  {
+    "Name": "Dark Screen",
+    "Ingredient #1": "Quick Blitz",
+    "Ingredient #2": "Confuse",
+    "Crystal": "Shimmering"
+  },
+  {
+    "Name": "Reload Boost",
+    "Ingredient #1": "Fira",
+    "Ingredient #2": "Fira",
+    "Crystal": "Fleeting"
+  },
+  {
+    "Name": "Defender",
+    "Ingredient #1": "Stopra",
+    "Ingredient #2": "Stopra",
+    "Crystal": "Soothing"
+  }
+]

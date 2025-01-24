@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Lightning Ray",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Thunder",
+    "Ingredient #2": "Thundara",
+    "Success %": 10
+  },
+  {
+    "Name": "Meteor Shower",
+    "Character": "Aqua",
+    "Ingredient #1": "Strike Raid",
+    "Ingredient #2": "Thundaga",
+    "Success %": 15
+  },
+  {
+    "Name": "Bio Barrage",
+    "Character": "Terra Ventus",
+    "Ingredient #1": "Poison",
+    "Ingredient #2": "Block",
+    "Success %": 20
+  }
+]

@@ -1,0 +1,261 @@
+[
+  {
+    "Name": "Blitz",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Quick Blitz",
+    "Ingredient #2": "Slot Edge",
+    "Success %": 90
+  },
+  {
+    "Name": "Meteor Crash",
+    "Character": "Terra",
+    "Ingredient #1": "Fire Strike",
+    "Ingredient #2": "Brutal Blast",
+    "Success %": 100
+  },
+  {
+    "Name": "Magic Hour",
+    "Character": "Aqua",
+    "Ingredient #1": "Barrier Surge",
+    "Ingredient #2": "Aeroga",
+    "Success %": 90
+  },
+  {
+    "Name": "Fire Dash",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Sliding Dash",
+    "Ingredient #2": "Fire",
+    "Success %": 100
+  },
+  {
+    "Name": "Dark Haze",
+    "Character": "Terra",
+    "Ingredient #1": "Fire Dash",
+    "Ingredient #2": "Zero Gravira",
+    "Success %": 100
+  },
+  {
+    "Name": "Sonic Blade",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Fire Dash",
+    "Ingredient #2": "Thunder Surge",
+    "Success %": 90
+  },
+  {
+    "Name": "Chaos Blade",
+    "Character": "Terra",
+    "Ingredient #1": "Dark Haze",
+    "Ingredient #2": "Sonic Blade",
+    "Success %": 90
+  },
+  {
+    "Name": "Zantetsuken",
+    "Character": "Terra",
+    "Ingredient #1": "Dark Haze",
+    "Ingredient #2": "Stopga",
+    "Success %": 80
+  },
+  {
+    "Name": "Strike Raid",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Quick Blitz",
+    "Ingredient #2": "Sliding Dash",
+    "Success %": 100
+  },
+  {
+    "Name": "Freeze Raid",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Strike Raid",
+    "Ingredient #2": "Blizzara",
+    "Success %": 100
+  },
+  {
+    "Name": "Treasure Raid",
+    "Character": "Ventus",
+    "Ingredient #1": "Strike Raid",
+    "Ingredient #2": "Slot Edge",
+    "Success %": 100
+  },
+  {
+    "Name": "Spark Raid",
+    "Character": "Ventus",
+    "Ingredient #1": "Freeze Raid",
+    "Ingredient #2": "Magnega",
+    "Success %": 100
+  },
+  {
+    "Name": "Wind Raid",
+    "Character": "Ventus",
+    "Ingredient #1": "Freeze Raid",
+    "Ingredient #2": "Aeroga",
+    "Success %": 100
+  },
+  {
+    "Name": "Fire Surge",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Fire Dash",
+    "Ingredient #2": "Ignite",
+    "Success %": 100
+  },
+  {
+    "Name": "Thunder Surge",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Stun Edge",
+    "Ingredient #2": "Thundara",
+    "Success %": 100
+  },
+  {
+    "Name": "Aerial Slam",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Fire Dash",
+    "Ingredient #2": "High Jump",
+    "Success %": 100
+  },
+  {
+    "Name": "Ars Solum",
+    "Character": "Terra",
+    "Ingredient #1": "Dark Haze",
+    "Ingredient #2": "Stopga",
+    "Success %": 20
+  },
+  {
+    "Name": "Ars Arcanum",
+    "Character": "Ventus",
+    "Ingredient #1": "Blitz",
+    "Ingredient #2": "Aerial Slam",
+    "Success %": 100
+  },
+  {
+    "Name": "Time Splicer",
+    "Character": "Ventus Aqua",
+    "Ingredient #1": "Aerial Slam",
+    "Ingredient #2": "Stopga",
+    "Success %": 100
+  },
+  {
+    "Name": "Poison Edge",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Quick Blitz",
+    "Ingredient #2": "Poison",
+    "Success %": 95
+  },
+  {
+    "Name": "Wishing Edge",
+    "Character": "Aqua",
+    "Ingredient #1": "Stun Edge",
+    "Ingredient #2": "Binding Strike",
+    "Success %": 100
+  },
+  {
+    "Name": "Blizzard Edge",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Quick Blitz",
+    "Ingredient #2": "Blizzard",
+    "Success %": 95
+  },
+  {
+    "Name": "Stun Edge",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Strike Raid",
+    "Ingredient #2": "Thunder",
+    "Success %": 95
+  },
+  {
+    "Name": "Slot Edge",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Poison Edge",
+    "Ingredient #2": "Cura",
+    "Success %": 95
+  },
+  {
+    "Name": "Fire Strike",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Stun Edge",
+    "Ingredient #2": "Fire",
+    "Success %": 100
+  },
+  {
+    "Name": "Confusion Strike",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Quick Blitz",
+    "Ingredient #2": "Confuse",
+    "Success %": 100
+  },
+  {
+    "Name": "Binding Strike",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Quick Blitz",
+    "Ingredient #2": "Bind",
+    "Success %": 100
+  },
+  {
+    "Name": "Brutal Blast",
+    "Character": "Terra",
+    "Ingredient #1": "Stun Edge",
+    "Ingredient #2": "Mine Shield",
+    "Success %": 70
+  },
+  {
+    "Name": "Tornado Strike",
+    "Character": "Ventus",
+    "Ingredient #1": "Binding Strike",
+    "Ingredient #2": "Aeroga",
+    "Success %": 100
+  },
+  {
+    "Name": "Magnet Spiral",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Binding Strike",
+    "Ingredient #2": "Magnega",
+    "Success %": 100
+  },
+  {
+    "Name": "Windcutter",
+    "Character": "Terra",
+    "Ingredient #1": "Binding Strike",
+    "Ingredient #2": "Aeroga",
+    "Success %": 100
+  },
+  {
+    "Name": "Limit Storm",
+    "Character": "Terra",
+    "Ingredient #1": "Brutal Blast",
+    "Ingredient #2": "Binding Strike",
+    "Success %": 100
+  },
+  {
+    "Name": "Salvation",
+    "Character": "Ventus",
+    "Ingredient #1": "Wind Raid",
+    "Ingredient #2": "Curaga",
+    "Success %": 100
+  },
+  {
+    "Name": "Collision Magnet",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Quick Blitz",
+    "Ingredient #2": "Magnera",
+    "Success %": 80
+  },
+  {
+    "Name": "Geo Impact",
+    "Character": "Terra",
+    "Ingredient #1": "Brutal Blast",
+    "Ingredient #2": "Brutal Blast",
+    "Success %": 70
+  },
+  {
+    "Name": "Sacrifice",
+    "Character": "Terra",
+    "Ingredient #1": "Poison Edge",
+    "Ingredient #2": "Warp",
+    "Success %": 100
+  },
+  {
+    "Name": "Break Time",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Curaga",
+    "Ingredient #2": "",
+    "Success %": 10
+  }
+]

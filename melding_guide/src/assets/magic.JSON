@@ -1,0 +1,282 @@
+[
+  {
+    "Name": "Fira",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Fire",
+    "Ingredient #2": "Fire",
+    "Success %": 100
+  },
+  {
+    "Name": "Firaga",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Fire",
+    "Ingredient #2": "Fira",
+    "Success %": 90
+  },
+  {
+    "Name": "Dark Firaga",
+    "Character": "Terra",
+    "Ingredient #1": "Firaga",
+    "Ingredient #2": "Blackout",
+    "Success %": 100
+  },
+  {
+    "Name": "Fission Firaga",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Firaga",
+    "Ingredient #2": "Aerora",
+    "Success %": 80
+  },
+  {
+    "Name": "Triple Firaga",
+    "Character": "Aqua",
+    "Ingredient #1": "Fira",
+    "Ingredient #2": "Firaga",
+    "Success %": 95
+  },
+  {
+    "Name": "Crawling Fire",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Firaga",
+    "Ingredient #2": "Slow",
+    "Success %": 80
+  },
+  {
+    "Name": "Blizzara",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Blizzard",
+    "Ingredient #2": "Blizzard",
+    "Success %": 100
+  },
+  {
+    "Name": "Blizzaga",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Blizzard",
+    "Ingredient #2": "Blizzara",
+    "Success %": 100
+  },
+  {
+    "Name": "Triple Blizzaga",
+    "Character": "Aqua",
+    "Ingredient #1": "Blizzara",
+    "Ingredient #2": "Blizzaga",
+    "Success %": 100
+  },
+  {
+    "Name": "Thundara",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Thunder",
+    "Ingredient #2": "Thunder",
+    "Success %": 100
+  },
+  {
+    "Name": "Thundaga",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Thunder",
+    "Ingredient #2": "Thundara",
+    "Success %": 90
+  },
+  {
+    "Name": "Thundaga Shot",
+    "Character": "Aqua",
+    "Ingredient #1": "Strike Raid",
+    "Ingredient #2": "Thundaga",
+    "Success %": 85
+  },
+  {
+    "Name": "Cura",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Cure",
+    "Ingredient #2": "Cure",
+    "Success %": 100
+  },
+  {
+    "Name": "Curaga",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Cure",
+    "Ingredient #2": "Cura",
+    "Success %": 100
+  },
+  {
+    "Name": "Mine Shield",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Fira",
+    "Ingredient #2": "Zero Gravity",
+    "Success %": 100
+  },
+  {
+    "Name": "Mine Square",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Fira",
+    "Ingredient #2": "Stop",
+    "Success %": 100
+  },
+  {
+    "Name": "Seeker Mine",
+    "Character": "Aqua",
+    "Ingredient #1": "Mine Shield",
+    "Ingredient #2": "Mine Square",
+    "Success %": 100
+  },
+  {
+    "Name": "Zero Gravira",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Zero Gravity",
+    "Ingredient #2": "Zero Gravity",
+    "Success %": 90
+  },
+  {
+    "Name": "Zero Graviga",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Zero Gravity",
+    "Ingredient #2": "Zero Gravira",
+    "Success %": 80
+  },
+  {
+    "Name": "Magnera",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Magnet",
+    "Ingredient #2": "Magnet",
+    "Success %": 100
+  },
+  {
+    "Name": "Magnega",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Magnet",
+    "Ingredient #2": "Magnera",
+    "Success %": 100
+  },
+  {
+    "Name": "Munny Magnet",
+    "Character": "Aqua",
+    "Ingredient #1": "Wishing Edge",
+    "Ingredient #2": "Magnera",
+    "Success %": 100
+  },
+  {
+    "Name": "Energy Magnet",
+    "Character": "Aqua",
+    "Ingredient #1": "Cure",
+    "Ingredient #2": "Magnera",
+    "Success %": 100
+  },
+  {
+    "Name": "D-Link Magnet",
+    "Character": "Aqua",
+    "Ingredient #1": "Magnera",
+    "Ingredient #2": "Stopra",
+    "Success %": 100
+  },
+  {
+    "Name": "Aerora",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Aero",
+    "Ingredient #2": "Aero",
+    "Success %": 95
+  },
+  {
+    "Name": "Aeroga",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Aero",
+    "Ingredient #2": "Aerora",
+    "Success %": 90
+  },
+  {
+    "Name": "Warp",
+    "Character": "Terra",
+    "Ingredient #1": "Zero Gravity",
+    "Ingredient #2": "Zero Gravira",
+    "Success %": 20
+  },
+  {
+    "Name": "Faith",
+    "Character": "Ventus",
+    "Ingredient #1": "Wind Raid",
+    "Ingredient #2": "Break Time",
+    "Success %": 100
+  },
+  {
+    "Name": "Deep Freeze",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Freeze Raid",
+    "Ingredient #2": "Blizzaga",
+    "Success %": 100
+  },
+  {
+    "Name": "Glacier",
+    "Character": "Aqua",
+    "Ingredient #1": "Blizzaga",
+    "Ingredient #2": "Deep Freeze",
+    "Success %": 100
+  },
+  {
+    "Name": "Mega Flare",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Fission Firaga",
+    "Ingredient #2": "Crawling Fire",
+    "Success %": 100
+  },
+  {
+    "Name": "Quake",
+    "Character": "Terra",
+    "Ingredient #1": "Brutal Blast",
+    "Ingredient #2": "Magnega",
+    "Success %": 90
+  },
+  {
+    "Name": "Meteor",
+    "Character": "Terra",
+    "Ingredient #1": "Geo Impact",
+    "Ingredient #2": "Quake",
+    "Success %": 100
+  },
+  {
+    "Name": "Tornado",
+    "Character": "Ventus",
+    "Ingredient #1": "Magnega",
+    "Ingredient #2": "Aeroga",
+    "Success %": 100
+  },
+  {
+    "Name": "Transcendence",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Magnet Spiral",
+    "Ingredient #2": "Zero Graviga",
+    "Success %": 100
+  },
+  {
+    "Name": "Mini",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Magnega",
+    "Ingredient #2": "Bind",
+    "Success %": 100
+  },
+  {
+    "Name": "Blackout",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Zero Gravity",
+    "Ingredient #2": "Confuse",
+    "Success %": 100
+  },
+  {
+    "Name": "Ignite",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Fire",
+    "Ingredient #2": "Bind",
+    "Success %": 100
+  },
+  {
+    "Name": "Stopra",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Stop",
+    "Ingredient #2": "Stop",
+    "Success %": 100
+  },
+  {
+    "Name": "Stopga",
+    "Character": "Terra Ventus Aqua",
+    "Ingredient #1": "Stop",
+    "Ingredient #2": "Stopra",
+    "Success %": 100
+  }
+]
