@@ -1,28 +1,26 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import terra from './assets/terra.png'
+import ventus from './assets/ventus.png'
+import aqua from './assets/aqua.png'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+
+
 
   return (
     <>
       <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+
+        <img src={terra} className="char terra" alt="React logo" />
+        <img src={ventus} className="char ventus" alt="React logo" />
+        <img src={aqua} className="char aqua" alt="React logo" />
       </div>
       <h1>Melding BBS</h1>
       <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
+
         <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
+          Melding guide for Kingdom Hearts: Birth By Sleep Final Mix
         </p>
       </div>
       <p className="read-the-docs">
