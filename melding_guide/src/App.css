@@ -11,15 +11,15 @@
   will-change: filter;
   transition: filter 300ms;
 }
-.char.terra:hover {
+.char.Terra:hover {
   filter: drop-shadow(0 0 2em #745946);
 }
 
-.char.ventus:hover {
+.char.Ventus:hover {
   filter: drop-shadow(0 0 2em #fbe674);
 }
 
-.char.aqua:hover {
+.char.Aqua:hover {
   filter: drop-shadow(0 0 2em #4a67ae);
 }
 
