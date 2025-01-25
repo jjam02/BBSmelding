@@ -65,9 +65,9 @@ function App() {
         <button onClick={updateTypeFilter}>Support</button>
 
       </div>
-      <h1>Melding BBS</h1>
-      <div className="card">
 
+      <div className="card">
+        <h1>Melding BBS</h1>
         <p>
           Melding guide for Kingdom Hearts: Birth By Sleep Final Mix
         </p>
