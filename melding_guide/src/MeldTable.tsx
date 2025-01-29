@@ -34,6 +34,15 @@ function MeldTable(props: MeldTableProps) {
         return Array.isArray(data) && data.length > 0 && (data[0] as MeldDataType2).Success !== undefined;
     }
 
+    function filterTableTypes() {
+
+        return (props.filterType !== "" && props.filterType !== props.recipeType);
+    }
+
+
+    if (filterTableTypes()) {
+        return (<></>)
+    }
 
 
     if (isMeldDataType1(data)) {
