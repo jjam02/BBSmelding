@@ -25,16 +25,16 @@ interface MeldDataType2 {
 
 function MeldTable(props: MeldTableProps) {
     const { data } = props;
-    console.log("THIS IS DATA: ", data)
     function isMeldDataType1(data: MeldDataType1[] | MeldDataType2[]): data is MeldDataType1[] {
 
         return "Crystal" in data[0]
     }
 
     function isMeldDataType2(data: MeldDataType1[] | MeldDataType2[]): data is MeldDataType2[] {
-        console.log("DATA TYPE 2")
         return Array.isArray(data) && data.length > 0 && (data[0] as MeldDataType2).Success !== undefined;
     }
+
+
 
     if (isMeldDataType1(data)) {
         // Handle MeldDataType1
@@ -81,7 +81,24 @@ function MeldTable(props: MeldTableProps) {
                         </tr>
                     </thead>
                     <tbody>
-                        {data.map((item, index) => (
+                        {data.filter((item) => {
+                            const names = props.filterChar.split(", ").filter(Boolean);
+                            let check = false;
+                            if (names.length >= 1) {
+                                names.forEach(name => {
+                                    if (item.Character.includes(name)) {
+                                        check = true
+                                    }
+                                });
+                            } else {
+                                return true;
+                            }
+
+                            return check;
+
+                        }
+
+                        ).map((item, index) => (
                             <tr key={index}>
                                 <td>{item.Name}</td>
                                 <td>{item.Character}</td>
