@@ -2,78 +2,78 @@
   {
     "Name": "Thunder Roll",
     "Character": "Ventus",
-    "Ingredient #1": "Stun Block",
-    "Ingredient #2": "Dodge Roll",
-    "Success %": 80
+    "Ingredient1": "Stun Block",
+    "Ingredient2": "Dodge Roll",
+    "Success": 80
   },
   {
     "Name": "Firewheel",
     "Character": "Aqua",
-    "Ingredient #1": "Firaga",
-    "Ingredient #2": "Cartwheel",
-    "Success %": 100
+    "Ingredient1": "Firaga",
+    "Ingredient2": "Cartwheel",
+    "Success": 100
   },
   {
     "Name": "Ice Slide",
     "Character": "Terra, Ventus, Aqua",
-    "Ingredient #1": "Blizzard Edge",
-    "Ingredient #2": "Air Slide",
-    "Success %": 100
+    "Ingredient1": "Blizzard Edge",
+    "Ingredient2": "Air Slide",
+    "Success": 100
   },
   {
     "Name": "Fire Glide",
     "Character": "Ventus",
-    "Ingredient #1": "Fire Surge",
-    "Ingredient #2": "Glide",
-    "Success %": 100
+    "Ingredient1": "Fire Surge",
+    "Ingredient2": "Glide",
+    "Success": 100
   },
   {
     "Name": "Homing Slide",
     "Character": "Ventus, Aqua",
-    "Ingredient #1": "Sliding Dash",
-    "Ingredient #2": "Magnera",
-    "Success %": 100
+    "Ingredient1": "Sliding Dash",
+    "Ingredient2": "Magnera",
+    "Success": 100
   },
   {
     "Name": "Renewal Block",
     "Character": "Terra, Ventus",
-    "Ingredient #1": "Esuna",
-    "Ingredient #2": "Block",
-    "Success %": 100
+    "Ingredient1": "Esuna",
+    "Ingredient2": "Block",
+    "Success": 100
   },
   {
     "Name": "Renewal Barrier",
     "Character": "Aqua",
-    "Ingredient #1": "Esuna",
-    "Ingredient #2": "Barrier",
-    "Success %": 100
+    "Ingredient1": "Esuna",
+    "Ingredient2": "Barrier",
+    "Success": 100
   },
   {
     "Name": "Stun Block",
     "Character": "Terra, Ventus",
-    "Ingredient #1": "Stun Edge",
-    "Ingredient #2": "Block",
-    "Success %": 100
+    "Ingredient1": "Stun Edge",
+    "Ingredient2": "Block",
+    "Success": 100
   },
   {
     "Name": "Confuse Barrier",
     "Character": "Aqua",
-    "Ingredient #1": "Confuse",
-    "Ingredient #2": "Barrier",
-    "Success %": 100
+    "Ingredient1": "Confuse",
+    "Ingredient2": "Barrier",
+    "Success": 100
   },
   {
     "Name": "Poison Block",
     "Character": "Terra, Ventus",
-    "Ingredient #1": "Poison",
-    "Ingredient #2": "Block",
-    "Success %": 80
+    "Ingredient1": "Poison",
+    "Ingredient2": "Block",
+    "Success": 80
   },
   {
     "Name": "Stop Barrier",
     "Character": "Aqua",
-    "Ingredient #1": "Stopga",
-    "Ingredient #2": "Barrier",
-    "Success %": 80
+    "Ingredient1": "Stopga",
+    "Ingredient2": "Barrier",
+    "Success": 80
   }
 ]

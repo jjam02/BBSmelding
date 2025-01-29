@@ -1,26 +1,26 @@
 [
   {
     "Name": "Treasure Magnet",
-    "Ingredient #1": "Stop",
-    "Ingredient #2": "Stop",
+    "Ingredient1": "Stop",
+    "Ingredient2": "Stop",
     "Crystal": "Hungry"
   },
   {
     "Name": "HP Prize Plus",
-    "Ingredient #1": "Sliding Dash",
-    "Ingredient #2": "Fire",
+    "Ingredient1": "Sliding Dash",
+    "Ingredient2": "Fire",
     "Crystal": "Hungry"
   },
   {
     "Name": "Link Prize Plus",
-    "Ingredient #1": "Sliding Dash",
-    "Ingredient #2": "Fire",
+    "Ingredient1": "Sliding Dash",
+    "Ingredient2": "Fire",
     "Crystal": "Abounding"
   },
   {
     "Name": "Lucky Strike",
-    "Ingredient #1": "Blizzard",
-    "Ingredient #2": "Blizzard",
+    "Ingredient1": "Blizzard",
+    "Ingredient2": "Blizzard",
     "Crystal": "Abounding"
   }
 ]
